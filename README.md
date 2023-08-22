@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+Maxwell Stickels
 
 ## UX Team Project
 
