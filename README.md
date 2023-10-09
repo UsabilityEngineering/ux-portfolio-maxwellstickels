@@ -9,4 +9,4 @@ Nothing yet, that's coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read "The Day The Microwave Lost Its Voice"](j01/)
