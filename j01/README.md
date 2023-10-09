@@ -2,11 +2,15 @@
 
 Below is a photo of the Kenmore Model 790 microwave in my apartment suite - let's call it "Ken" for short.
 
+[![Ken in all its glory.](../assets/m1.JPEG)]
+
 Ken has been an invaluable tool for a college student like me, who can't be bothered to actually cook anything besides pasta and chicken breasts. It has all of the features I need (and several I don't) clearly spelled out for me, right at my fingertips. Its thorough adherence to existing microwave standards makes it so instantly recognizable that I could probably nuke a Jimmy Dean Croissant Egg Sausage and Cheese Breakfast Sandwich to perfection with my eyes closed. Over the years, I have grown all too familiar with the shrill 2000 Hz beeps of microwaves like Ken, giving me clear feedback that the buttons I'm pressing work, or that my food is ready to go. Perhaps out of hubris, I had come to believe that my **mental mapping** of how Ken worked was true to the **system image** - that my assumptions and expectations of Ken's functionality were one-to-one with Ken's true design - that I knew Ken better than Ken knew itself.
 
 Then, on September 25th 2023, Ken went silent.
 
 To be clear, Ken was not dead. Ken still hummed softly as it slowly spun my food around, exciting the water molecules within. But the 2000 Hz beep I had come to know was no more. As the image below shows, there's a button to toggle the vent, fan, light, and power level. The beep, however, was a constant. I speculated that maybe something had shorted out during the recent power outage, or the hardware of the beeping component broke. In any case, I was forced to come to terms with the reality that Ken would never beep again.
+
+[![Ken's learnable and effective feature list.](../assets/m2.JPEG)]
 
 At first the silence was deafening. With time, however, I began to recognize something had changed about myself. Before, whenever Ken's timer was close to running out, I would dash over and try to hit the STOP button at the perfect time before it could make a sound. Now, I felt no such pressure - instead, Ken would simply stop on its own terms, and I would feel a subtle sense of relief wash over me. While Ken's “Kitchen Timer” functionality was now considerably less useful, I generally didn't microwave things for longer than a couple of minutes anyways, so I had no problem remembering to get my food once the time came.
 
@@ -17,6 +21,8 @@ That would have been where the story ended, if I had not procrastinated on this.
 Baffled, and now not so comfortable with the idea of going back to the 2000 Hz status quo, I began to brainstorm as to how this could have happened. It was then that I recalled the one button on the microwave I truly did not understand - Clock and Settings.
 
 The Clock part I knew perfectly well. If you press the Clock and Settings button once, the current time flashes on screen; simply input the time you want on the number pad and press START. Press the Clock and Settings twice, however, and nothing makes sense anymore.
+
+[![What? Just... what?](../assets/m3.JPEG)]
 
 I know what seeing is, but seriously - what is a “menu label”? What on Earth is an “oP 2”? When previously confronted with this nonsense, I would simply hit STOP to exit, fearing I might seriously mess things up otherwise. Not anymore.
 
