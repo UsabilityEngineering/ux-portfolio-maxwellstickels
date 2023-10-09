@@ -22,6 +22,7 @@ That would have been where the story ended, if I had not procrastinated on this 
 Baffled, and now not so comfortable with the idea of going back to the 2000 Hz status quo, I began to brainstorm as to how this could have happened. It was then that I recalled the one button on the microwave I truly did not understand - Clock and Settings.
 
 The Clock part I knew perfectly well. If you press the Clock and Settings button once, the current time flashes on screen; simply input the time you want on the number pad and press START. Press the Clock and Settings twice, however, and nothing makes sense anymore.
+
 <img src="../assets/m1.JPEG" width="400">
 
 I know what seeing is, but seriously - what is a “menu label”? What on Earth is an “oP 2”? When previously confronted with this nonsense, I would simply hit STOP to exit, fearing I might seriously mess things up otherwise. Not this time.
