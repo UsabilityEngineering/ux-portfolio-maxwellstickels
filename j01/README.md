@@ -3,8 +3,6 @@
 Below is a photo of the Kenmore Model 790 microwave in my apartment suite - let's call it "Ken" for short.
 
 <img src="../assets/m1.JPEG" width="600">
-![Ken in all its glory.](../assets/m1.JPEG)
-
 Ken has been an invaluable tool for a college student like me, who can't be bothered to actually cook anything besides pasta and chicken breasts. It has all of the features I need (and several I don't) clearly spelled out for me, right at my fingertips. Its thorough adherence to existing microwave standards makes its interface so instantly recognizable that I could probably nuke a Jimmy Dean Croissant Egg Sausage and Cheese Breakfast Sandwich to perfection with my eyes closed. Over the years, I have grown all too familiar with the shrill 2000 Hz beeps of microwaves like Ken, giving me clear feedback that the buttons I'm pressing work, or that my food is ready to go. Perhaps out of hubris, I had come to believe that my **mental mapping** of how Ken worked was true to the **system image** - that my assumptions and expectations of Ken's functionality were one-to-one with Ken's true design - that I knew Ken better than Ken knew itself.
 
 Then, on September 25th 2023, Ken went silent.
